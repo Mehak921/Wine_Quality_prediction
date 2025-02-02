@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91720/Desktop/Wine_Quality_prediction/mlruns/0/a32e68e9cc4b422f8188f8fbcd404d34/artifacts
+end_time: 1738504075301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a32e68e9cc4b422f8188f8fbcd404d34
+run_name: powerful-trout-531
+run_uuid: a32e68e9cc4b422f8188f8fbcd404d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738504068551
+status: 4
+tags: []
+user_id: '91720'

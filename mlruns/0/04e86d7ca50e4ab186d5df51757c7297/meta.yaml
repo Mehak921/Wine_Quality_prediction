@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91720/Desktop/Wine_Quality_prediction/mlruns/0/04e86d7ca50e4ab186d5df51757c7297/artifacts
+end_time: 1738504055299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04e86d7ca50e4ab186d5df51757c7297
+run_name: judicious-mare-16
+run_uuid: 04e86d7ca50e4ab186d5df51757c7297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738504047901
+status: 4
+tags: []
+user_id: '91720'
